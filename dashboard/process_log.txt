@@ -1,0 +1,438 @@
+[2025-12-15 06:45:43] IP: 36.76.180.142 | Method: GET | URI: /dashboard/process_product.php
+[2025-12-15 08:43:34] IP: 36.76.180.142 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => ukulele
+    [price] => 4999999
+    [stock] => 10
+    [image_url] => https://www.sweelee.co.id/cdn/shop/products/I01-UKC10_1526885447667.jpg?v=1637895038&width=2048
+    [category] => ebook
+    [status] => active
+    [description] => ukulele deskrisp
+    [add_product] => 1
+    [submit_add] => 
+)
+
+---
+Database connection: SUCCESS
+Processing ADD_PRODUCT request
+[2025-12-15 08:59:18] IP: 36.76.180.142 | Method: GET | URI: /dashboard/process_product.php?delete=6
+[2025-12-15 09:02:02] IP: 36.76.180.142 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => ekeuelelee     //*7*-/
+    [price] => 499999
+    [stock] => 10
+    [image_url] => https://www.sweelee.co.id/cdn/shop/products/I01-UKC10_1526885447667.jpg?v=1637895038&width=2048
+    [category] => ebook
+    [status] => active
+    [description] => ekeuelelee / 8-
+    [add_product] => 1
+    [submit_add] => 
+)
+
+---
+Database connection: SUCCESS
+Processing ADD_PRODUCT request
+[2025-12-15 09:02:29] IP: 36.76.180.142 | Method: GET | URI: /dashboard/process_product.php?delete=7
+[2025-12-15 09:16:16] IP: 36.76.180.142 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => hehehhe
+    [price] => 99999999999999999
+    [stock] => 10
+    [image_url] => https://www.sweelee.co.id/cdn/shop/products/I01-UKC10_1526885447667.jpg?v=1637895038&width=2048
+    [category] => ebook
+    [status] => active
+    [description] => eeeee
+    [add_product] => 1
+    [submit_add] => 
+)
+
+---
+Database connection: SUCCESS
+Processing ADD_PRODUCT request
+ERROR: Deskripsi produk minimal 10 karakter
+[2025-12-15 09:16:36] IP: 36.76.180.142 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => eee==// --
+    [price] => 99999999
+    [stock] => 10
+    [image_url] => https://www.sweelee.co.id/cdn/shop/products/I01-UKC10_1526885447667.jpg?v=1637895038&width=2048
+    [category] => ebook
+    [status] => active
+    [description] => se56gegeg1eg
+    [add_product] => 1
+    [submit_add] => 
+)
+
+---
+Database connection: SUCCESS
+Processing ADD_PRODUCT request
+ERROR: Title hanya boleh berisi huruf, angka, dash (-), dan underscore (_)! TIDAK BOLEH ADA SPASI atau karakter khusus lain.
+[2025-12-15 09:16:48] IP: 36.76.180.142 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => ssv fsffv
+    [price] => 9999999
+    [stock] => 10
+    [image_url] => https://www.sweelee.co.id/cdn/shop/products/I01-UKC10_1526885447667.jpg?v=1637895038&width=2048
+    [category] => ebook
+    [status] => active
+    [description] => vevevegegef
+    [add_product] => 1
+    [submit_add] => 
+)
+
+---
+Database connection: SUCCESS
+Processing ADD_PRODUCT request
+ERROR: Title hanya boleh berisi huruf, angka, dash (-), dan underscore (_)! TIDAK BOLEH ADA SPASI atau karakter khusus lain.
+[2025-12-15 09:16:59] IP: 36.76.180.142 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => thththth
+    [price] => 99999999999
+    [stock] => 10
+    [image_url] => https://www.sweelee.co.id/cdn/shop/products/I01-UKC10_1526885447667.jpg?v=1637895038&width=2048
+    [category] => ebook
+    [status] => active
+    [description] => ethrtfhtht
+    [add_product] => 1
+    [submit_add] => 
+)
+
+---
+Database connection: SUCCESS
+Processing ADD_PRODUCT request
+Product Data to insert:
+Title: thththth
+Folder: thththth
+URL: https://beliyuk.shop/products/thththth/
+Price: 99999999999
+Stock: 10
+---
+Folder created successfully: /home/bikslrey/beliyuk.shop/products/thththth/
+Product added successfully. Redirecting...
+[2025-12-15 09:46:52] IP: 36.76.180.142 | Method: GET | URI: /dashboard/process_product.php?delete=8
+Deleting product ID: 8
+Product Title: thththth
+Folder name: thththth
+Folder path to delete: /home/bikslrey/beliyuk.shop/products/thththth/
+Folder exists: YES
+Deleted file: /home/bikslrey/beliyuk.shop/products/thththth/index.php
+Used system command to delete folder
+Product deleted from database successfully
+Rows affected: 1
+[2025-12-15 09:47:51] IP: 36.76.180.142 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => rhrhrh_grgrgrg
+    [price] => 99999999999
+    [stock] => 10
+    [image_url] => https://www.sweelee.co.id/cdn/shop/products/I01-UKC10_1526885447667.jpg?v=1637895038&width=2048
+    [category] => ebook
+    [status] => active
+    [description] => srrrgrbrbrb rbr _+()_7451 
+    [add_product] => 1
+)
+
+---
+Database connection: SUCCESS
+Processing ADD_PRODUCT request
+[2025-12-15 09:53:47] IP: 36.76.180.142 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => rgrgrgttbtbt
+    [price] => 99999999
+    [stock] => 10
+    [image_url] => https://www.sweelee.co.id/cdn/shop/products/I01-UKC10_1526885447667.jpg?v=1637895038&width=2048
+    [category] => ebook
+    [status] => active
+    [description] => k8k8k8k8k8k
+    [add_product] => 1
+)
+
+---
+Database connection: SUCCESS
+Processing ADD_PRODUCT request
+Product Data to insert:
+Title: rgrgrgttbtbt
+Folder: rgrgrgttbtbt
+URL: https://beliyuk.shop/products/rgrgrgttbtbt/
+Price: 99999999
+Stock: 10
+---
+Created product folder: /home/bikslrey/beliyuk.shop/products/rgrgrgttbtbt/
+Created index.php in product folder
+Created .htaccess file
+Folder created successfully: /home/bikslrey/beliyuk.shop/products/rgrgrgttbtbt/
+Product added successfully. Redirecting...
+[2025-12-15 11:31:35] IP: 182.253.133.163 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => svsvsvsvsvsv
+    [price] => 999999999
+    [stock] => 10
+    [image_url] => https://imgdst.tomsamcong.com/public/uploads/original/65/6b/35ef31fbe97ddeb5f4f18a04c1b7.webp
+    [category] => ebook
+    [status] => active
+    [description] => vsvsvsvsvsv
+    [add_product] => 1
+)
+
+---
+Database connection: SUCCESS
+Processing ADD_PRODUCT request
+Product Data to insert:
+Title: svsvsvsvsvsv
+Folder: svsvsvsvsvsv
+URL: https://beliyuk.shop/products/svsvsvsvsvsv/
+Price: 999999999
+Stock: 10
+---
+Created product folder: /home/bikslrey/beliyuk.shop/products/svsvsvsvsvsv/
+Created index.php in product folder
+Created .htaccess file
+Folder created successfully: /home/bikslrey/beliyuk.shop/products/svsvsvsvsvsv/
+Product added successfully. Redirecting...
+[2025-12-15 11:32:41] IP: 182.253.133.163 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => ssssssssssssssssss
+    [price] => 555555555
+    [stock] => 10
+    [image_url] => https://imgdst.tomsamcong.com/public/uploads/original/65/6b/35ef31fbe97ddeb5f4f18a04c1b7.webp
+    [category] => ebook
+    [status] => active
+    [description] => 5yjtyjyjyjyj
+    [add_product] => 1
+)
+
+---
+Database connection: SUCCESS
+Processing ADD_PRODUCT request
+Product Data to insert:
+Title: ssssssssssssssssss
+Folder: ssssssssssssssssss
+URL: https://beliyuk.shop/products/ssssssssssssssssss/
+Price: 555555555
+Stock: 10
+---
+Created product folder: /home/bikslrey/beliyuk.shop/products/ssssssssssssssssss/
+Created index.php in product folder
+Created .htaccess file
+Folder created successfully: /home/bikslrey/beliyuk.shop/products/ssssssssssssssssss/
+Product added successfully. Redirecting...
+[2025-12-15 11:32:55] IP: 182.253.133.163 | Method: GET | URI: /dashboard/process_product.php?delete=11
+Deleting product ID: 11
+Product Title: ssssssssssssssssss
+Folder name: ssssssssssssssssss
+Folder path to delete: /home/bikslrey/beliyuk.shop/products/ssssssssssssssssss/
+Folder exists: YES
+Deleted file: /home/bikslrey/beliyuk.shop/products/ssssssssssssssssss/error_log
+Deleted file: /home/bikslrey/beliyuk.shop/products/ssssssssssssssssss/index.php
+Used system command to delete folder
+Product deleted from database successfully
+Rows affected: 1
+[2025-12-15 11:32:59] IP: 182.253.133.163 | Method: GET | URI: /dashboard/process_product.php?delete=10
+Deleting product ID: 10
+Product Title: svsvsvsvsvsv
+Folder name: svsvsvsvsvsv
+Folder path to delete: /home/bikslrey/beliyuk.shop/products/svsvsvsvsvsv/
+Folder exists: YES
+Deleted file: /home/bikslrey/beliyuk.shop/products/svsvsvsvsvsv/error_log
+Deleted file: /home/bikslrey/beliyuk.shop/products/svsvsvsvsvsv/index.php
+Used system command to delete folder
+Product deleted from database successfully
+Rows affected: 1
+[2025-12-15 11:33:02] IP: 182.253.133.163 | Method: GET | URI: /dashboard/process_product.php?delete=9
+Deleting product ID: 9
+Product Title: rgrgrgttbtbt
+Folder name: rgrgrgttbtbt
+Folder path to delete: /home/bikslrey/beliyuk.shop/products/rgrgrgttbtbt/
+Folder exists: NO
+Folder does not exist, skipping deletion
+Product deleted from database successfully
+Rows affected: 1
+[2025-12-15 11:34:00] IP: 182.253.133.163 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => hhththth
+    [price] => 666666666666
+    [stock] => 10
+    [image_url] => https://imgdst.tomsamcong.com/public/uploads/original/65/6b/35ef31fbe97ddeb5f4f18a04c1b7.webp
+    [category] => ebook
+    [status] => active
+    [description] => yjyjyjyvvvv
+    [add_product] => 1
+)
+
+---
+Database connection: SUCCESS
+Processing ADD_PRODUCT request
+Product Data to insert:
+Title: hhththth
+Folder: hhththth
+URL: https://beliyuk.shop/products/hhththth/
+Price: 666666666666
+Stock: 10
+---
+Created product folder: /home/bikslrey/beliyuk.shop/products/hhththth/
+Created index.php in product folder
+Created .htaccess file
+Folder created successfully: /home/bikslrey/beliyuk.shop/products/hhththth/
+Product added successfully. Redirecting...
+[2025-12-15 11:49:43] IP: 182.253.133.163 | Method: GET | URI: /dashboard/process_product.php?delete=12
+[2025-12-15 11:50:15] IP: 182.253.133.163 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => rrrrrrrrr
+    [price] => 99999999999999999
+    [stock] => 10
+    [image_url] => https://imgdst.tomsamcong.com/public/uploads/original/65/6b/35ef31fbe97ddeb5f4f18a04c1b7.webp
+    [category] => ebook
+    [status] => active
+    [description] => rrrrrrrrrrrrr
+    [add_product] => 1
+)
+
+---
+Processing ADD_PRODUCT request
+Adding product: rrrrrrrrr | Folder: rrrrrrrrr | Price: 1.0E+17
+Folder created: /home/bikslrey/beliyuk.shop/products/rrrrrrrrr/
+[2025-12-15 12:38:14] IP: 182.253.133.163 | Method: GET | URI: /dashboard/process_product.php?delete=13
+[2025-12-15 12:38:25] IP: 182.253.133.163 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => srgbgrbrtb
+    [price] => 6666666666
+    [stock] => 10
+    [image_url] => https://imgdst.tomsamcong.com/public/uploads/original/65/6b/35ef31fbe97ddeb5f4f18a04c1b7.webp
+    [category] => ebook
+    [status] => active
+    [description] => vdvdvdvdvdvd
+    [add_product] => 1
+)
+
+---
+Processing ADD_PRODUCT request
+Adding product: srgbgrbrtb | Folder: srgbgrbrtb | Price: 6666666666
+Folder created: /home/bikslrey/beliyuk.shop/products/srgbgrbrtb/
+[2025-12-15 12:55:49] IP: 182.253.133.163 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => rrhrhrhr
+    [price] => 7777777777
+    [stock] => 10
+    [image_url] => https://imgdst.tomsamcong.com/public/uploads/original/65/6b/35ef31fbe97ddeb5f4f18a04c1b7.webp
+    [category] => ebook
+    [status] => active
+    [description] => hrhrhthssssss
+    [add_product] => 1
+)
+
+---
+Processing ADD_PRODUCT request
+ADD ERROR: Product ID Code harus diisi (untuk tracking)
+[2025-12-15 13:12:33] IP: 182.253.133.163 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => ssssssssss
+    [price] => 5656565
+    [stock] => 10
+    [image_url] => https://imgdst.tomsamcong.com/public/uploads/original/65/6b/35ef31fbe97ddeb5f4f18a04c1b7.webp
+    [category] => ebook
+    [status] => active
+    [description] => ssssssssssss
+    [add_product] => 1
+)
+
+---
+Processing ADD_PRODUCT request
+ADD ERROR: Product ID Code harus diisi (untuk tracking)
+[2025-12-15 13:13:03] IP: 182.253.133.163 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => 46546456546565
+    [price] => 666666
+    [stock] => 10
+    [image_url] => https://imgdst.tomsamcong.com/public/uploads/original/65/6b/35ef31fbe97ddeb5f4f18a04c1b7.webp
+    [category] => ebook
+    [status] => active
+    [description] => thtnttntnftntnnyn
+    [add_product] => 1
+)
+
+---
+Processing ADD_PRODUCT request
+ADD ERROR: Product ID Code harus diisi (untuk tracking)
+[2025-12-15 13:16:45] IP: 182.253.133.163 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => ffffffffffff
+    [price] => 4444444444
+    [stock] => 10
+    [image_url] => https://imgdst.tomsamcong.com/public/uploads/original/65/6b/35ef31fbe97ddeb5f4f18a04c1b7.webp
+    [category] => ebook
+    [status] => active
+    [description] => htrhnhernrtntntn
+    [add_product] => 1
+)
+
+---
+Processing ADD_PRODUCT request
+ADD ERROR: Product ID Code harus diisi (untuk tracking)
+[2025-12-15 13:17:09] IP: 182.253.133.163 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => bdfbfbfb
+    [price] => 4444444
+    [stock] => 10
+    [image_url] => https://imgdst.tomsamcong.com/public/uploads/original/65/6b/35ef31fbe97ddeb5f4f18a04c1b7.webp
+    [category] => ebook
+    [status] => active
+    [description] => btfnftntfngnygfnfsntyn
+    [add_product] => 1
+)
+
+---
+Processing ADD_PRODUCT request
+ADD ERROR: Product ID Code harus diisi (untuk tracking)
+[2025-12-15 13:17:31] IP: 182.253.133.163 | Method: POST | URI: /dashboard/process_product.php
+POST Data received:
+Array
+(
+    [title] => fefefefefe
+    [price] => 44444444
+    [stock] => 10
+    [image_url] => https://imgdst.tomsamcong.com/public/uploads/original/65/6b/35ef31fbe97ddeb5f4f18a04c1b7.webp
+    [category] => ebook
+    [status] => active
+    [description] => tgtgtgtgtgtgtgtgtgtgtgtgtgtgtg
+    [add_product] => 1
+)
+
+---
+Processing ADD_PRODUCT request
+Adding product: fefefefefe | Folder: fefefefefe | Price: 44444444
+Folder created: /home/bikslrey/beliyuk.shop/products/fefefefefe/

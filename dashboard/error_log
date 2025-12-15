@@ -1,0 +1,50 @@
+[15-Dec-2025 03:33:14 UTC] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home/bikslrey/beliyuk.shop/dashboard/index.php on line 2
+[15-Dec-2025 03:33:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bikslrey/beliyuk.shop/dashboard/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bikslrey/beliyuk.shop/dashboard/index.php on line 2
+[15-Dec-2025 03:33:20 UTC] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home/bikslrey/beliyuk.shop/dashboard/index.php on line 2
+[15-Dec-2025 03:33:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bikslrey/beliyuk.shop/dashboard/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bikslrey/beliyuk.shop/dashboard/index.php on line 2
+[15-Dec-2025 03:33:30 UTC] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home/bikslrey/beliyuk.shop/dashboard/index.php on line 2
+[15-Dec-2025 03:33:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bikslrey/beliyuk.shop/dashboard/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bikslrey/beliyuk.shop/dashboard/index.php on line 2
+[15-Dec-2025 03:40:50 UTC] PHP Warning:  require_once(config.php): Failed to open stream: No such file or directory in /home/bikslrey/beliyuk.shop/dashboard/index.php on line 2
+[15-Dec-2025 03:40:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bikslrey/beliyuk.shop/dashboard/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/bikslrey/beliyuk.shop/dashboard/index.php on line 2
+[15-Dec-2025 06:19:56 UTC] PHP Fatal error:  Cannot redeclare getDefaultImageUrl() (previously declared in /home/bikslrey/beliyuk.shop/dashboard/process_product.php:406) in /home/bikslrey/beliyuk.shop/dashboard/config.php on line 23
+[15-Dec-2025 16:46:52 Asia/Jakarta] PHP Warning:  rmdir(/home/bikslrey/beliyuk.shop/products/thththth/): Directory not empty in /home/bikslrey/beliyuk.shop/dashboard/process_product.php on line 699
+[15-Dec-2025 16:47:51 Asia/Jakarta] PHP Fatal error:  Cannot redeclare createFolderName() (previously declared in /home/bikslrey/beliyuk.shop/dashboard/process_product.php:758) in /home/bikslrey/beliyuk.shop/dashboard/process_product.php on line 99
+[15-Dec-2025 18:32:55 Asia/Jakarta] PHP Warning:  rmdir(/home/bikslrey/beliyuk.shop/products/ssssssssssssssssss/): Directory not empty in /home/bikslrey/beliyuk.shop/dashboard/process_product.php on line 701
+[15-Dec-2025 18:32:59 Asia/Jakarta] PHP Warning:  rmdir(/home/bikslrey/beliyuk.shop/products/svsvsvsvsvsv/): Directory not empty in /home/bikslrey/beliyuk.shop/dashboard/process_product.php on line 701
+[15-Dec-2025 12:38:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PRODUCT_ID" in /home/bikslrey/beliyuk.shop/dashboard/process_product.php:1389
+Stack trace:
+#0 {main}
+  thrown in /home/bikslrey/beliyuk.shop/dashboard/process_product.php on line 1389
+[15-Dec-2025 12:39:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PRODUCT_ID" in /home/bikslrey/beliyuk.shop/dashboard/process_product.php:1389
+Stack trace:
+#0 {main}
+  thrown in /home/bikslrey/beliyuk.shop/dashboard/process_product.php on line 1389
+[15-Dec-2025 12:39:15 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PRODUCT_ID" in /home/bikslrey/beliyuk.shop/dashboard/process_product.php:1389
+Stack trace:
+#0 {main}
+  thrown in /home/bikslrey/beliyuk.shop/dashboard/process_product.php on line 1389
+[15-Dec-2025 12:39:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PRODUCT_ID" in /home/bikslrey/beliyuk.shop/dashboard/process_product.php:1389
+Stack trace:
+#0 {main}
+  thrown in /home/bikslrey/beliyuk.shop/dashboard/process_product.php on line 1389
+[15-Dec-2025 12:39:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PRODUCT_ID" in /home/bikslrey/beliyuk.shop/dashboard/process_product.php:1389
+Stack trace:
+#0 {main}
+  thrown in /home/bikslrey/beliyuk.shop/dashboard/process_product.php on line 1389
+[15-Dec-2025 12:56:22 UTC] PHP Warning:  require_once(../../dashboard/config.php): Failed to open stream: No such file or directory in /home/bikslrey/beliyuk.shop/dashboard/product_page_template.php on line 11
+[15-Dec-2025 12:56:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../dashboard/config.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bikslrey/beliyuk.shop/dashboard/product_page_template.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/bikslrey/beliyuk.shop/dashboard/product_page_template.php on line 11
