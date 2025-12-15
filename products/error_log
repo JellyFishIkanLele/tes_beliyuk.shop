@@ -1,0 +1,5 @@
+[14-Dec-2025 11:58:08 UTC] PHP Warning:  Undefined variable $products in /home/bikslrey/beliyuk.shop/products/index.php on line 274
+[14-Dec-2025 11:58:08 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/bikslrey/beliyuk.shop/products/index.php:274
+Stack trace:
+#0 {main}
+  thrown in /home/bikslrey/beliyuk.shop/products/index.php on line 274

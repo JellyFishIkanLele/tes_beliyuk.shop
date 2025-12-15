@@ -1,0 +1,17 @@
+=== DEBUG INFO ===
+Status: 00
+Order ID: 1765458225
+Session email: TIDAK ADA
+Session quantity: TIDAK ADA
+Session order_id: TIDAK ADA
+Amount: 99998
+Quantity: 1
+
+ERROR: Tidak ada email customer di session!
+Session data: Array
+(
+    [payment_amount] => 99998
+    [product_details] => Paket Super Lengkap 1.999+ E-Books Premium (Qty: 2)
+    [duitku_reference] => DS2670325FC05W8FAWHMMSO5
+)
+
